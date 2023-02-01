@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { useNavigate, UseNavigate } from "react-router-dom";
+import { useNavigate} from "react-router-dom";
 
 import axios from "axios";
 import Avatar from '../../assets/peoples-2.svg'
